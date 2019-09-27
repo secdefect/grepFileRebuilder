@@ -1,5 +1,3 @@
-# grep output rebuilder
-
 Rebuilds files and directory structure from grep output 
 
 e.g. 
