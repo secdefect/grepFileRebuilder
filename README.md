@@ -1,4 +1,4 @@
-Rebuilds files and directory structure from grep output 
+#Rebuilds files and directory structure from grep output 
 
 e.g. 
 
@@ -22,7 +22,7 @@ and so on
 
 The script will rebuild the files and the directory structure
 
-Usage:
+#Usage:
 
 ./rebuild.sh grepoutputfile
 
