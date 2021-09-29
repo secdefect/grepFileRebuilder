@@ -16,3 +16,5 @@ echo -e "${array[1]}" >> "${array[0]}"
 echo "${array[1]}"
 IFS=$'\n'
 done
+
+
